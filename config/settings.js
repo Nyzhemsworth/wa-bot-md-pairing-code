@@ -43,15 +43,15 @@ module.exports = {
   mongodb_uri: 'Your-MongoDb-URI', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://daniapi.biz.id',
-    key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
+    key: 'sk-v897bynhw4pq36evk' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'NYZBOT',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: [" *NYZ PEDIA* "],
+    number: ["6283811660214"]
   },
   daily_limit: {
     free: 25,
@@ -60,7 +60,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'NYZPEDIA'
     }
   },
   react: {
